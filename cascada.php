@@ -1,0 +1,18 @@
+<?php
+
+/*
+
+    ETAPAS DEL MODELO CASCADA
+    ->REQUISITOS
+    ->DISEÑO
+    ->IMPLEMENTACION
+    ->VERIFICACION
+    ->MANTENIMIENTO
+
+        
+
+
+
+*/
+
+?>
